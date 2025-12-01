@@ -114,10 +114,9 @@ bash <(curl -L https://github.com/JasonV001/AnyTls-ReaLity/raw/main/install.sh)
 
 Reality底层是TCP直连，如果你的VPS已经被墙，那肯定用不了。出门左转 https://github.com/crazypeace/v2ray_wss
 
-</details>
 
 # 具体手搓步骤 (点击展开)
-<details>
+ <details>
     <summary>(点击展开)</summary>
 
 # 打开BBR
@@ -276,5 +275,5 @@ bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install
 bash <(curl -L https://github.com/crazypeace/xray-vless-reality/raw/main/install.sh) 6 443 learn.microsoft.com 1b0b723f-0544-4f9c-8df8-2b8975c5e47a
 ```
 
+ </details>
 </details>
-
