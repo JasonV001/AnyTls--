@@ -3,6 +3,8 @@
 bash <(curl -Ls https://raw.githubusercontent.com/JasonV001/AnyTls-ReaLity/main/install_anytls.sh)
 ```
 # ReaLity一键安装
+<details>
+    <summary>(点击展开)</summary>
 ```
 apt update
 apt install -y curl
@@ -18,6 +20,7 @@ bash <(curl -L https://github.com/JasonV001/AnyTls-ReaLity/raw/main/install.sh)
 
 Reality底层是TCP直连，如果你的VPS已经被墙，那肯定用不了。出门左转 https://github.com/crazypeace/v2ray_wss
 
+</details>
 
 # 具体手搓步骤 (点击展开)
 <details>
