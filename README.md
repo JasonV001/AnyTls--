@@ -24,7 +24,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/JasonV001/AnyTls-ReaLity/main
 ### 2. 再次运行脚本
 
 ```bash
-sudo bash rl-hy2.sh
+sudo bash reality-hysteria2.sh
 ```
 
 脚本将以 root 权限运行，并显示主菜单。
