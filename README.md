@@ -1,19 +1,24 @@
  # AnyTls一键安装
 <details>
     <summary>(点击展开)</summary>
+ 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/JasonV001/AnyTls-ReaLity/main/install_anytls.sh)
 ```
+
 </details>
+ 
  # reality-hysteria2一键安装
+ 
 <details>
     <summary>(点击展开)</summary>
-```bash
-wget -O rl-hy2.sh https://raw.githubusercontent.com/JasonV001/reality-hysteria2/main/rl-hy2.sh && chmod +x rl-hy2.sh && ./rl-hy2.sh
+
+ ```bash
+wget -O rl-hy2.sh https://raw.githubusercontent.com/JasonV001/AnyTls-ReaLity/main/reality-hysteria2.sh && chmod +x reality-hysteria2.sh && ./reality-hysteria2.sh
 ```
 或者
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/JasonV001/reality-hysteria2/main/rl-hy2.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/JasonV001/AnyTls-ReaLity/main/reality-hysteria2.sh)
 ```
 
 ### 2. 再次运行脚本
@@ -25,6 +30,7 @@ sudo bash rl-hy2.sh
 脚本将以 root 权限运行，并显示主菜单。
 
 </details>
+
 # ReaLity一键安装
 <details>
     <summary>(点击展开)</summary>
